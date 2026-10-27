@@ -295,3 +295,4 @@ def gerar_conjunto_peca(peca, caminho_saida):
 
 
 
+
