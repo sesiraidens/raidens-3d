@@ -293,3 +293,4 @@ def gerar_conjunto_peca(peca, caminho_saida):
     print(f"Peso estimado: {peca.calcular_peso():.2f}g")
 
 
+
