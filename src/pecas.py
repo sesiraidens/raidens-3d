@@ -291,3 +291,4 @@ def gerar_conjunto_peca(peca, caminho_saida):
     print(f"Arquivo gerado: {caminho_saida}")
     print(f"Volume estimado: {peca.calcular_volume():.2f} cm3")
     print(f"Peso estimado: {peca.calcular_peso():.2f}g")
+
